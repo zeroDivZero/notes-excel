@@ -9,7 +9,8 @@ Type `=` to begin typing formula (built-in or arithmetic) in cell. Click or drag
 Can copy&paste formula in other cells. Or drag lower-right green dot to autofill.
 
 **Common formulas:**
-`=MAX(C4:C20)`
-`=MIN(C4:C20)`
-`=AVERAGE(C4:C20)`
-`=SUM(D4:D20)`
+
+* `=MAX(C4:C20)`
+* `=MIN(C4:C20)`
+* `=AVERAGE(C4:C20)`
+* `=SUM(D4:D20)`
