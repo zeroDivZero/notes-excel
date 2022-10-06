@@ -14,3 +14,13 @@ Can copy&paste formula in other cells. Or drag lower-right green dot to autofill
 * `=MIN(C4:C20)`
 * `=AVERAGE(C4:C20)`
 * `=SUM(D4:D20)`
+
+**Conditional:**
+
+* `=IF(D4>40,D4-40,0)`
+
+## Interface
+
+Ribbon is top section with options and tools:
+
+![Ribbon](../assets/ribbon.png)
