@@ -2,4 +2,4 @@
 
 Analyze nearby cells to determine how to split data from cells. **Data > Flash Fill**.
 
-![Flash Fill](assets/flash_fill.png)
+![Flash Fill](../assets/flash_fill.png)
