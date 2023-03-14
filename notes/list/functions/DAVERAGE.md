@@ -1,5 +1,5 @@
 # `DAVERAGE()`
 
-Database sum. Average with criteria.
+Database average. Average with criteria.
 
 ![DAVERAGE](../../../assets/daverage.png)
