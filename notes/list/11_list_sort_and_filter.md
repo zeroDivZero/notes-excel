@@ -24,7 +24,15 @@ Click **Clear** button next to **Filter** to clear all current filters.
 
 ## Subtotal
 
-Sort to group relevant rows. Then click **Data &rarr; Subtotal**. Can calculate subtotal per group. Also adds controls at left to collapse groups.
+Sort to group relevant rows. Then click **Data &rarr; Subtotal**:
+
+![Subtotal Button](../../assets/subtotal-ribbon.png)
+
+![Subtotal Modal](../../assets/subtotal-modal.png)
+
+Can calculate subtotal per group. Also adds controls at left to collapse groups or only display subtotals.
+
+![Subtotal Sidebar](../../assets/subtotal-side.png)
 
 ## Format as Table
 
