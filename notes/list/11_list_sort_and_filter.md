@@ -36,7 +36,7 @@ Can calculate subtotal per group. Also adds controls at left to collapse groups 
 
 ## Format as Table
 
-**Home &rarr; Format as Table**. Presents list as table for better visualization. New **Table** menu added to allow various options like adding like "Total Row" (auto-updated when filtering). Drag lower right corner down to add more rows.
+**Home &rarr; Format as Table**. Presents list as table for better visualization. New **Table** menu added to allow various options like adding "Total Row" (auto-updated when filtering). Drag lower right corner down to add more rows.
 
 ## Duplicates
 
