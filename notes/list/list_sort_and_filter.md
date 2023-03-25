@@ -1,12 +1,12 @@
 # LIST
 
-Excel expects first row to be column headers. Format it differently to help myself and Excel.
+First row expected to be column headers. Format it differently to help myself and Excel.
 
-List expected to be contiguous. If there's empty row in middle, considered as two separate lists.
+List expected to be contiguous. If there's empty row in middle, considered as two lists.
 
 ## Sort (Single Level)
 
-Click anywhere in column to sort by. Go to **Data &rarr; Sort & Filter**. Can sort alphabetically.
+Click anywhere in list. Go to **Data &rarr; Sort & Filter**. Can sort alphabetically.
 
 ## Sort (Multi-Level)
 
@@ -25,10 +25,12 @@ Click **Clear** button next to **Filter** to clear all current filters.
 ## Subtotal
 
 Sort to group relevant rows. Then click **Data &rarr; Subtotal**:
+
 ![Subtotal Button](../../assets/subtotal-ribbon.png)
 ![Subtotal Modal](../../assets/subtotal-modal.png)
 
 Can calculate subtotal per group. Also adds controls at left to collapse groups or only display subtotals.
+
 ![Subtotal Sidebar](../../assets/subtotal-side.png)
 
 ## Format as Table
