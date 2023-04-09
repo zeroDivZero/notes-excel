@@ -8,4 +8,4 @@ Click in PivotTable. Then:
 
 Choose field(s) to add slicers. Rearrange as see fit.
 
-![Pivot Table Slicer](/assets/pivottable-slicer.png)
+![PivotTable Slicer](/assets/pivottable-slicer.png)
