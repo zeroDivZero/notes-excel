@@ -16,6 +16,8 @@ To sort by multiple columns, click anywhere in list, go to **Data &rarr; Sort & 
 
 When doing custom sort, can specify custom order list. Allows sorting by day of week or month of year instead of alphabetical.
 
+To use own list, go to **Excel &rarr; Preferences &rarr; Custom Lists** to add.
+
 ## Filter
 
 Click anywhere in list. Click **Filter**. Column headers have dropdowns to allow filtering.
