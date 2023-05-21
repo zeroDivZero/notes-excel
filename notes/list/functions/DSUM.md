@@ -8,7 +8,7 @@ Params:
 
 * `database`: Select whole list, including headers.
 * `field`: Header of column to sum.
-* `criteria`: Header and value that must match what's in list for the sum.
+* `criteria`: Header and value that must match what's in list.
 
 ## OR Criteria
 
