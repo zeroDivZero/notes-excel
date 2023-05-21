@@ -6,7 +6,7 @@ Formula containing values from multiple worksheets called **3D formula**.
 ='2013'!B4+'2014'!B4+'2015'!B4
 ```
 
-To access cell in separate sheet, specify worksheet name in single quotes, followed by `!`, then followed by cell id.
+To access cell in separate sheet, specify worksheet name in single quotes, followed by `!`, then followed by cell ID.
 
 ## Consolidate
 
