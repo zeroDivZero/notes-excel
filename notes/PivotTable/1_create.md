@@ -1,7 +1,5 @@
 # CREATE
 
-## Create
-
 1. Can select range of cells to create PivotTable, but better to first format list as table, so future editions to list automatically handled.
 
 2. Go to **Table** tab and rename table. No space.
