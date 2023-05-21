@@ -1,15 +1,15 @@
 # `VLOOKUP()`
 
-Vertical lookup. Looks for value in leftmost column of table, returns value in same row from column specified. By default, table must be sorted in ascending order.
+Vertical lookup. Looks for val in leftmost col of table, returns val in same row from col specified. By default, table must be sorted in ascending order.
 
 ```excel
 VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)
 ```
 
-* **Lookup_value**: value to be found in first column of table; can be value, reference, or text string.
-* **Table_array**: table of text, numbers, or logical values, in which data is retrieved. Can be reference to a range or range name.
-* **Col_index_num**: column number in table_array from which matching value should be returned. First column is 1.
-* **Range_lookup**: logical value, to find closest match in first column (sorted in ascending order) = `TRUE` or omitted; find exact match = `FALSE`.
+* **Lookup_value**: val to be found in first column of table; can be val, ref, or text.
+* **Table_array**: table of text, numbers, or logical vals, in which data is retrieved; can be range ref or name.
+* **Col_index_num**: col num in **table_array** from which matching val should be returned; 1st col is 1.
+* **Range_lookup**: logical value, to find closest match in 1st col (sorted in ascending order) = `TRUE` or omitted; find exact match = `FALSE`.
 
 ## Example
 
