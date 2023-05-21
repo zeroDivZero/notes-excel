@@ -2,7 +2,7 @@
 
 First row expected to be column headers. Format it differently to help myself and Excel.
 
-List expected to be contiguous. If there's empty row in middle, considered as two lists.
+List expected to be contiguous. If empty row in middle, considered as two lists.
 
 ## Sort (Single Level)
 
