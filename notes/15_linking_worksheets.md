@@ -1,6 +1,6 @@
 # LINKING WORKSHEETS
 
-Formula that contains values from multiple worksheets is called **3D formula**.
+Formula containing values from multiple worksheets called **3D formula**.
 
 ```excel
 ='2013'!B4+'2014'!B4+'2015'!B4
