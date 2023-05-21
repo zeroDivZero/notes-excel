@@ -8,7 +8,7 @@ Syntax:
 SUBTOTAL(function_num,ref1,...)
 ```
 
-**function_num** specifies summary function for subtotal. **ref1,ref2,...** are references in subtotal.
+**function_num** specifies summary function for subtotal. Each function has unique number, see doc. **ref1,ref2,...** are cells participating in subtotal.
 
 Ex:
 
