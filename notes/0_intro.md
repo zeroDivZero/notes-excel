@@ -2,7 +2,7 @@
 
 **Hierarchy:** Workbook | Sheet | Cell
 
-By default, cell text left aligned, number right aligned. Number can be formatted in many ways, and use increase or decrease decimals for precision.
+By default, cell text left aligned, number right aligned. Number can be formatted, increase or decrease decimals for precision.
 
 Type `=` to begin typing formula (built-in or arithmetic) in cell. Click or drag-select range of cells for participating cells.
 
