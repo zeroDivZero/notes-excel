@@ -12,7 +12,7 @@ When using functions, can use named range instead.
 
 ## Disadvantage
 
-* Named range is always absolute reference. Copying function involving named range won't automatically update cell references.
+* Named range always absolute ref. Careful copying function involving named range.
 
 ## Editing
 
