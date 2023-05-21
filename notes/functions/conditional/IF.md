@@ -1,6 +1,6 @@
 # `IF()`
 
-Conditional function, if logical test passed, show one value, otherwise show other. To use, start typing `=IF(`, or under **Formulas**, open **Logical**:
+If logical test passed, show one value, otherwise show other. To use, start typing `=IF(`, or under **Formulas**, open **Logical**:
 
 ![IF](/assets/IF.png)
 
