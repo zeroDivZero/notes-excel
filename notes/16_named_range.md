@@ -16,6 +16,6 @@ When using functions, can use named range instead.
 
 ## Editing
 
-If need to edit named range after creation (like renaming or changing referenced cells):
+If need to edit named range after creation (like renaming or changing ref cells):
 
 ### Formulas &rarr; Name Manager
