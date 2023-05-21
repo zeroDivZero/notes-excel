@@ -6,7 +6,7 @@ Select cells to validate, then **Data &rarr; Data Validation**.
 
 ## Settings
 
-Set up validation criteria. Validate that cell contains a value from specified list, a whole number, a decimal number, a date, etc.
+Set up validation criteria. Validate that cell contains value from specified list, whole number, decimal number, date, etc.
 
 For list criterion, can type out source, or specify cell range.
 
