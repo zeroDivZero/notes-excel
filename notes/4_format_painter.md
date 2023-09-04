@@ -1,5 +1,7 @@
 # FORMAT PAINTER
 
-## Home &rarr; Clipboard &rarr; Format Painter
+## Home &rarr; Format
+
+![Format Painter](/assets/format-painter.png)
 
 Click once, copies formatting of current cell, and when clicking another cell, applies same formatting.

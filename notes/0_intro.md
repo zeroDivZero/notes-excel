@@ -6,7 +6,7 @@ By default, cell text left-aligned, number right-aligned. Number can be formatte
 
 Type `=` to begin formula (built-in or arithmetic) in cell. Click or drag-select range of cells for participating cells.
 
-Can copy&paste formula in other cells. Or drag lower-right green dot to autofill.
+Can copy&paste formula in other cells. Or drag lower right dot to autofill.
 
 **Common formulas:**
 
