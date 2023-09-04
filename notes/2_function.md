@@ -6,9 +6,9 @@ Predefined formula to perform calculation. Hundreds available. E.g., add up all 
 =SUM(B4:B8)
 ```
 
-Every calculation starts with `=`. Followed by function name. Then args are in parentheses.
+Every calculation starts with `=`, followed by function name, then args in parentheses.
 
-In Ribbon, can go to "Formulas" to see functions. Or with cell selected, click "fx" button to right of cell name box to open **Insert Function** dialog.
+In Ribbon, can go to **Formulas** to see functions. Or with cell selected, click **fx** button to right of cell name box.
 
 ## Common
 
@@ -16,4 +16,4 @@ In Ribbon, can go to "Formulas" to see functions. Or with cell selected, click "
 
 ## AutoSum
 
-Under "Formulas", click **AutoSum** button (uppercase sigma) to let Excel select most appropriate cell range to sum up. Use dropdown to select another function. Keyboard shortcut `ALT + =`.
+Under **Formulas**, click **AutoSum** button (uppercase sigma) to let Excel select most appropriate cell range to sum up. Use dropdown to select another function. Keyboard shortcut `alt + =`.
