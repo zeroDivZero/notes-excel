@@ -2,7 +2,7 @@
 
 **Hierarchy:** Workbook | Sheet | Cell
 
-By default, cell text left aligned, number right aligned. Number can be formatted, increase or decrease decimals for precision.
+By default, cell text left-aligned, number right-aligned. Number can be formatted, decimals increased/decreased for precision.
 
 Type `=` to begin formula (built-in or arithmetic) in cell. Click or drag-select range of cells for participating cells.
 
@@ -13,7 +13,7 @@ Can copy&paste formula in other cells. Or drag lower-right green dot to autofill
 * `=MAX(C4:C20)`
 * `=MIN(C4:C20)`
 * `=AVERAGE(C4:C20)`
-* `=SUM(D4:D20)`
+* `=SUM(C4:C20)`
 
 **Conditional:**
 
@@ -21,6 +21,6 @@ Can copy&paste formula in other cells. Or drag lower-right green dot to autofill
 
 ## Interface
 
-Ribbon is top section with options and tools:
+**Ribbon**: top section with options and tools:
 
 ![Ribbon](../assets/ribbon.png)
