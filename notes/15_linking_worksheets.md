@@ -18,4 +18,4 @@ In desired summary worksheet, click cell and go to:
 
 ![Data Consolidate](/assets/data-consolidate.png)
 
-In dialog, select desired function and worksheet regions(references).
+In dialog, select desired function and worksheet regions (references).
