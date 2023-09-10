@@ -1,6 +1,6 @@
 # `CONCATENATE()`
 
-Joins strs into one.
+Joins strings into one.
 
 ## Syntax
 
@@ -8,7 +8,7 @@ Joins strs into one.
 CONCATENATE(text1,text2,...)
 ```
 
-*	`text1`, `text2`, etc: 1 to 255 strs to be joined into single str. Can be strs, nums, or single-cell refs.
+*	`text1`, `text2`, etc: 1 to 255 strings to be joined into single string. Can be strings, numbers, or single-cell refs.
 
 ## Example
 

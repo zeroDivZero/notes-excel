@@ -1,6 +1,6 @@
 # `LEFT()`
 
-Specified num of 1st chars of string.
+Specified number of 1st characters of string.
 
 ## Syntax
 
@@ -8,8 +8,8 @@ Specified num of 1st chars of string.
 LEFT(text,num_chars)
 ```
 
-* `text`: text string containing chars to extract.
-* `num_chars`: how many chars to extract on left side of string; 1 if omitted.
+* `text`: String containing characters to extract.
+* `num_chars`: How many characters to extract on left side of string; 1 if omitted.
 
 ## Example
 

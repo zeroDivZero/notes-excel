@@ -1,6 +1,6 @@
 # `MID()`
 
-Chars in middle of string, given starting pos and length.
+Characters in middle of string, given starting position and length.
 
 ## Syntax
 
@@ -8,9 +8,9 @@ Chars in middle of string, given starting pos and length.
 MID(text,start_num,num_chars)
 ```
 
-* `text`: text string to extract chars.
-* `start_num`: pos of 1st char; 1st char is 1.
-* `num_chars`: how many chars to return from text.
+* `text`: String to extract chars.
+* `start_num`: Position of 1st character; 1st character is 1.
+* `num_chars`: How many characters to return from text.
 
 ## Example
 

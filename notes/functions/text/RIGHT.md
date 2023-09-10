@@ -1,6 +1,6 @@
 # `RIGHT()`
 
-Specified num of last chars of string.
+Specified number of last characters of string.
 
 ## Syntax
 
@@ -8,8 +8,8 @@ Specified num of last chars of string.
 RIGHT(text,num_chars)
 ```
 
-* `text`: text string containing chars to extract.
-* `num_chars`: how many chars to extract on right side of string; 1 if omitted.
+* `text`: String containing characters to extract.
+* `num_chars`: How many characters to extract on right side of string; 1 if omitted.
 
 ## Example
 

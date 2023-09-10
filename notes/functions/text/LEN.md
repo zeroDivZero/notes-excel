@@ -1,6 +1,6 @@
 # `LEN()`
 
-Num of chars in string.
+Number of characters in string.
 
 ## Syntax
 
@@ -8,7 +8,7 @@ Num of chars in string.
 LEN(text)
 ```
 
-* `text`: text string whose length to find. Spaces count as chars.
+* `text`: String whose length to find. Spaces count as chars.
 
 ## Example
 
