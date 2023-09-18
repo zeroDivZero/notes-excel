@@ -1,6 +1,6 @@
 # CREATE
 
-1. Can select range of cells, but better to first format list as table, so future editions automatically handled.
+1. Can select cell range, but better to first format list as table, so future editions automatically handled.
 
 2. Go to **Table** tab and rename table. No space.
 

@@ -1,6 +1,6 @@
 # GROUPING
 
-To further group rows, select 1st col cells to group, then **PivotTable &rarr; Group Selection**.
+To further group rows, select 1st column cells to group, then **PivotTable &rarr; Group Selection**.
 
 If cells are dates, can **Group Field**.
 
