@@ -2,7 +2,7 @@
 
 `VLOOKUP()` (and `HLOOKUP()`) limitations:
 
-* lookup val must be in 1st col/row
+* lookup value must be in 1st col/row
 * col/row index must be > 0
 * slow
 
