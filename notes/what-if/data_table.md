@@ -10,4 +10,4 @@ Select entire table. Then **Data &rarr; What-if Analysis &rarr; Data Table**.
 
 ![Data Table Input](/assets/data-table-input.png)
 
-Enter cell ref in formula to be substituted.
+Enter cell ref in formula to be substituted. For single-variable, enter ref in **Column input cell**.
