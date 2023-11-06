@@ -14,7 +14,7 @@ Returns value in range, given row/col.
 INDEX(array, row_num, [col_num])
 ```
 
-* **array**: Range of cells or array constant.
+* **array**: Cell range or array constant.
 * **row_num**: Selects row in array to return value. If omitted, `col_num` is required.
 * **col_num**: Selects column in array to return value. If omitted, `row_num` required.
 
@@ -35,7 +35,7 @@ MATCH(lookup_value,lookup_array,match_type)
 ```
 
 * **lookup_value**: Value to match in array.
-* **lookup_array**: Range of cells containing lookup values.
+* **lookup_array**: Cell range containing lookup values.
 * **match_type**: 1, 0, or -1 indicating how to match (1 is largest <= value, 0 is exact, -1 is smallest >= value).
 
 E.g.:
@@ -54,7 +54,7 @@ E.g.:
 
 Like `VLOOKUP()` and `HLOOKUP()`, but value A doesn't need to be at 1st col/row, and more performant.
 
-Can do `MATCH()` for both row and column, only type formula once and apply to whole range:
+Can do `MATCH()` for both row and column, only type formula once and applies to whole range:
 
 ```excel
 =INDEX('Master Emp List'!$A$1:$I$38,MATCH($B10,'Master Emp List'!$A$1:$A$38,0),MATCH(D$2,'Master Emp List'!$A$1:$I$1,0))
