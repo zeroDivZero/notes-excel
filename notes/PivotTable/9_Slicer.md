@@ -4,6 +4,6 @@ Another way to filter, but adds interactive widget to make spreadsheet more like
 
 Click in PivotTable. Then: **PivotTable Analyze &rarr; Insert Slicer**.
 
-Choose field(s) to add slicers. Rearrange as fit.
+Select field(s) to add slicers. Rearrange as fit.
 
 ![PivotTable Slicer](/assets/pivottable-slicer.png)
