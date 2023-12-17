@@ -15,7 +15,7 @@ INDEX(array, row_num, [col_num])
 ```
 
 * **array**: Cell range or array constant.
-* **row_num**: Selects row in array to return value. If omitted, `col_num` is required.
+* **row_num**: Selects row in array to return value. If omitted, `col_num` required.
 * **col_num**: Selects column in array to return value. If omitted, `row_num` required.
 
 E.g.:
