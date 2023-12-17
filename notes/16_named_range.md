@@ -6,7 +6,7 @@ When using functions, can use named range instead.
 
 ## Advantages
 
-* Giving cells context by providing more meaningful name.
+* Provides context with meaningful name.
 * Can ref whole table of data, simplifying functions.
 * Easy navigation: In upper left cell ID textfield, hit dropdown arrow to quickly jump to named range (can also only print this selection).
 
