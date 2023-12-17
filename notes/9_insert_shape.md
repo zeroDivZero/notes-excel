@@ -4,4 +4,4 @@
 
 To add shapes like lines or arrows for illustration purposes.
 
-Select shape, new menu **Shape** appears to customize it.
+Select shape, **Shape** appears in ribbon for further customization.
