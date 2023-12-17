@@ -45,7 +45,7 @@ To do **Subtotal** on table, first **Table &rarr; Convert to Range**.
 
 ### Highlight
 
-Select column of unique values (**cmd + shift + &darr;** to select all from current cell to last row of value). **Home &rarr; Conditional Formatting &rarr; Highlight Cells Rules &rarr; Duplicate Values**.
+Select column of unique values (**Cmd + Shift + &darr;** to select all from current cell to last row of value). **Home &rarr; Conditional Formatting &rarr; Highlight Cells Rules &rarr; Duplicate Values**.
 
 ### Remove
 
