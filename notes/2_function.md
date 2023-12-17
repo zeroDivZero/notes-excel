@@ -16,4 +16,4 @@ In Ribbon, can go to **Formulas** to see functions. Or with cell selected, click
 
 ## AutoSum
 
-Under **Formulas**, click **AutoSum** button (uppercase sigma) to let Excel select most appropriate cell range to sum up. Use dropdown to select another function. Keyboard shortcut `alt + =`.
+Under **Formulas**, click **AutoSum** button (uppercase sigma) to let Excel select most appropriate cell range to sum up. Use dropdown to select another function.
