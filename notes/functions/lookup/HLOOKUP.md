@@ -1,8 +1,8 @@
 # `HLOOKUP()`
 
-Horizontal lookup. Like `VLOOKUP()`, but Looks for val in topmost row of table, returns val in same col from row specified.
+Horizontal lookup. Like `VLOOKUP()`, but Looks for value in topmost row of table, returns value in same column from row specified.
 
-Same params as `VLOOKUP()` but cols and rows swapped. See [VLOOKUP](VLOOKUP.md) for details.
+Same params as `VLOOKUP()` but columns and rows swapped. See [VLOOKUP](VLOOKUP.md) for details.
 
 ## Example
 
