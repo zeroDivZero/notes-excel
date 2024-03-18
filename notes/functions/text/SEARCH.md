@@ -1,6 +1,6 @@
 # `SEARCH()`
 
-Character number at which specified string 1st found, reading left to right. **Case-insensitive**.
+Character number at which specified string first found, reading left to right. **Case-insensitive**.
 
 ## Syntax
 
@@ -14,7 +14,7 @@ SEARCH(find_text,within_text,start_num)
 
 ## Example
 
-Extracting first name from string where first and last names separated by space:
+Extracts first name from string where first and last names separated by space:
 
 ```excel
 =LEFT(A2,SEARCH(" ",A2)-1)

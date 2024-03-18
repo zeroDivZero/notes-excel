@@ -14,4 +14,4 @@ MID(text,start_num,num_chars)
 
 ## Example
 
-`MID("Hello, world!",4,3)` returns **lo,**.
+`MID("Hello, world!",4,3)` returns `lo,`.

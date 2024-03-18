@@ -13,4 +13,4 @@ RIGHT(text,num_chars)
 
 ## Example
 
-`RIGHT("Hello, world!",6)` returns **world!**.
+`RIGHT("Hello, world!",6)` returns `world!`.

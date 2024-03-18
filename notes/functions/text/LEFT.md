@@ -13,4 +13,4 @@ LEFT(text,num_chars)
 
 ## Example
 
-`LEFT("Hello, world!",5)` returns **Hello**.
+`LEFT("Hello, world!",5)` returns `Hello`.

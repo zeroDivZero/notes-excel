@@ -12,4 +12,4 @@ LEN(text)
 
 ## Example
 
-`LEN("Hello, world!")` returns **13**.
+`LEN("Hello, world!")` returns `13`.

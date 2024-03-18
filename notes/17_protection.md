@@ -18,7 +18,7 @@ Won't be allowed to modify any other cells.
 **Review &rarr; Protect Workbook**
 ![Protect Workbook](/assets/protect-workbook.png)
 
-Won't be allowed to modify sheet name (or any other sheet property), ensuring formulas involving sheet names won't break.
+Disallows modifying sheet name (or any other sheet property), ensuring formulas involving sheet names won't break.
 
 Click same button again and enter password (if set up) to unprotect workbook.
 

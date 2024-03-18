@@ -9,3 +9,5 @@ If shortcut key set when creating macro, can use it directly. If didn't set or f
 Can select macro to **Run** (lower-right), or edit **Options** (such as setting shortcut key):
 
 ![Macro options](/assets/macro/macro-options.png)
+
+**Tip:** Duplicate sheet to test macro, in case it makes irreversible mistake.

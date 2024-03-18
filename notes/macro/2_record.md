@@ -14,3 +14,5 @@
 4. Click **OK** to begin recording.
 
 5. When done, **Developer &rarr; Stop Recording**.
+
+**Tip:** When selecting range, if using mouse, Excel records exact range selected by mouse drag. Macro may not work on range that doesn't have same number of cols/rows. To record dynamic range select, use shortcut key **^ + Shift + *Arrow***, where arrow is direction to select to end of content.
