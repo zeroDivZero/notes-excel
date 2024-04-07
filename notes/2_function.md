@@ -8,6 +8,12 @@ Predefined formula to perform calculation. Hundreds available. E.g., add up all 
 
 Every calculation starts with `=`, followed by function name, then args in parentheses.
 
+To specify full column:
+
+```excel
+=SUM(B:B)
+```
+
 In Ribbon, can go to **Formulas** to see functions. Or with cell selected, click **fx** button to right of cell name box.
 
 ## Common
