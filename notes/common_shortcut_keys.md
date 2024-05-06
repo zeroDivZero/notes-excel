@@ -2,7 +2,7 @@
 
 ## Range Selection
 
-**^ + Shift + *Arrow***, where arrow is direction to select to end of content.
+**^ · Shift · *Arrow***, where arrow is direction to select to end of content.
 
 ## Insert
 
